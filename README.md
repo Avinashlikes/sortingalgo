@@ -1,1 +1,1 @@
-# sortin galgo
+# sorting algo
